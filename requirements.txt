@@ -1,0 +1,4 @@
+pytubefix
+youtube-search
+moviepy
+google-generativeai
